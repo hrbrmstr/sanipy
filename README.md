@@ -18,7 +18,7 @@ The following functions are implemented:
 
 Stucture inspection helpers:
 
-  - `pstr`: Compactly Display the Structure of a Python object
+  - `pystr`: Compactly Display the Structure of a Python object
   - `pynames`: (All) The Names of a Python Object
 
 Strng helpers:

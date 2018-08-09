@@ -10,9 +10,9 @@
 #' library(reticulate)
 #'
 #' mailbox = import("mailbox")
-#' readthedocs(mailbox)
+#' pystr(mailbox)
 #' }
-pstr <- function(obj, ...) { str(obj$`__dict__`, ...) } # like 'str()`
+psytr <- function(obj, ...) { str(obj$`__dict__`, ...) } # like 'str()`
 
 
 #' (All) The Names of a Python Object

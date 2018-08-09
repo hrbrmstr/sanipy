@@ -2,7 +2,7 @@
 
 export("%|0|%")
 export(get_chr)
-export(pstr)
+export(psytr)
 export(py_doc)
 export(pynames)
 export(readthedocs)
