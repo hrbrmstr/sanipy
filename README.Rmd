@@ -16,12 +16,12 @@ See <https://rud.is/b/2018/08/04/digging-into-mbox-details-a-tale-of-tm-reticula
 
 The following functions are implemented:
 
-Stucture inspection helpers:
+Structure inspection helpers:
 
 - `pystr`:	Compactly Display the Structure of a Python object
 - `pynames`:	(All) The Names of a Python Object
 
-Strng helpers:
+Strong helpers:
 
 - `get_chr`:	Retrieve a value from a Python 'dict' as a character
 - `utf8_decode`:	Decode a Python structure and retrieve a UTF-8 encoded value from it
